@@ -411,3 +411,8 @@ body {
 .text-brand {
   color: #0085a1;
 }
+.img-center {
+  margin: 0 auto;
+  text-align:center;
+  display: block;
+}
